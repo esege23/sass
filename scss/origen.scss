@@ -1,0 +1,46 @@
+@import "./boostrap/bootstrap.scss";
+
+$primary: #30702d;
+$danger: #2540b6;
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark);
+
+
+.colorfondo{
+    background-color: $primary;
+
+}
+.logomenu{
+    width: 50px;
+    height: 50px;
+}
+
+.imagencarousel{
+    height: 650px;
+
+}
+.contenedornoticias{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bordecontenido{
+    border: 1px solid white;
+    padding: 5px;
+    margin-top: 15px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+iframe{
+    border-radius: 15px;
+}
