@@ -48,3 +48,28 @@ $theme-colors: (
 iframe{
     border-radius: 15px;
 }
+.backimagen{
+    background-image: url(../imagenes/WhatsApp-Image-2020-03-31-at-17.03.29-2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footerquienes{
+    position:static;
+    height: 150px;
+    bottom: 0px;
+    width: 100%;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    
+}
+
+.footercontacto{
+    position:static;
+    height: 150px;
+    bottom: 0px;
+    width: 100%;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    
+}
+

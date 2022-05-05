@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esege23/sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esege23/sass/issues"
+  },
+  "homepage": "https://github.com/esege23/sass#readme",
   "description": ""
 }
